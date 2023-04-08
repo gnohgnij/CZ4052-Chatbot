@@ -108,10 +108,10 @@ const EmbeddedWebchat = (props: Props) => {
       containerWidth: encodeURIComponent("100%"),
       layoutWidth: encodeURIComponent("100%"),
       // These 3 should use real bot info
-      botName: "awesome-plants",
+      botName: "Resumate",
       botConversationDescription:
-        "Chat with this bot built surprisingly fast in Botpress",
-      composerPlaceholder: `Chat with Bot NAME`, // TODO replace with bot name from static file
+        "⚡️ Build your resume in minutes with Resumate ⚡️",
+      composerPlaceholder: `Chat with Resumate`, // TODO replace with bot name from static file
       // remove this when we have a real bot
       chatId: WEBCHAT_ID,
     };
