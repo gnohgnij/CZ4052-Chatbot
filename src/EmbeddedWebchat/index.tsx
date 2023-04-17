@@ -117,7 +117,7 @@ const EmbeddedWebchat = (props: Props) => {
     };
 
     window.botpressWebChat.init(webchatConfig, `#${WRAPPER_ID}`);
-  }, [injectScriptLoaded]);
+  }, [injectScriptLoaded, webchatReady, props.botID]);
 
   return (
     <div id={WRAPPER_ID} className="webchatContainer">
