@@ -16,4 +16,4 @@ Make your resume [here](https://resumate-chatbot.netlify.app/)!
 
 ## Demo
 
-![video demo](https://youtu.be/awsMnjYhmZw).
+[![video demo](https://youtu.be/awsMnjYhmZw).
