@@ -8,18 +8,12 @@ Make your resume [here](https://resumate-chatbot.netlify.app/)!
 
 ## Communication Diagram
 
----
-
 ![communication diagram](assets/communication_diagram.png)
 
 ## Sample Resume
 
----
-
 ![sample resume](assets/sample_resume.png)
 
 ## Demo
-
----
 
 Watch the demo [here](https://youtu.be/awsMnjYhmZw).
